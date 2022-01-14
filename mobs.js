@@ -116,6 +116,9 @@ nb.mobs = [
 	"a furry slate shellback plushie with half a face","a plump silver quartz-creeper plushie with a moth-eaten hole in its torso",
 	"a button-eyed indigo terraworm plushie with half a face","a misshapen redberry atzaparaki plushie with one eye hanging out",
 	"a feathery emerald zhubeast plushie with half a face","a matted lilac merova plushie with a glitching voicebox","a beady-eyed albino knockout rat",
+	//Wundishu
+	"a maintenance worker", "an indomitable security bot", "a bioluminescent bot prototype", "a test subject", " a Bushraki commander", "a Bushraki mercenary", "a seek-and-destroy drone",
+	
 	
 	//Wilderness
 	//Servius Fault
@@ -136,6 +139,10 @@ nb.mobs = [
 	"a fleshy-spined echidna","a stalk-eyed mayaki",
 	//Ixsei
 	"a crystal-headed tolma","a silver-scaled spinehusk",
+	//Fogbound Marshes
+	"a bone-crested sohemuu", "a spine-carapaced hari", "a dark-furred and floating fleel",
+	//Deisk
+	"a corkscrewing giant gilworm", "a goo-bodied blithu"
 ];
 
 //names of mechanical targets go here. 
