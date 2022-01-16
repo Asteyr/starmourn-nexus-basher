@@ -136,6 +136,8 @@ nb.mobs = [
 	"a fleshy-spined echidna","a stalk-eyed mayaki",
 	//Ixsei
 	"a crystal-headed tolma","a silver-scaled spinehusk",
+	//Siva River
+	"a long-necked tuu",
 ];
 
 //names of mechanical targets go here. 
